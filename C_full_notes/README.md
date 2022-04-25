@@ -1,5 +1,5 @@
 C language by Microsolution
-- addition program,variable,basic program
+- add,variable,basic program
 - Operator
 - Decision making
 - switch case (decision making)
